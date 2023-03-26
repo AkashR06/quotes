@@ -1,0 +1,25 @@
+.container{
+    text-align: center;
+}
+.box{
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: white;
+    height: 200px;
+    width: 300px;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: 0px 0px 8px 8px yellowgreen;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.b1{
+    float: left;
+    color: purple;
+}
+.b2{
+    float: right;
+    color: green;
+}
